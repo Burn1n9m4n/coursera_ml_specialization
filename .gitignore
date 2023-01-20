@@ -6,3 +6,6 @@
 
 # Jupyter Notebook cache
 __pycache__
+
+# Settings files from VSCode
+.vscode
